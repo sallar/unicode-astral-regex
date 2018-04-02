@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "description": "A regex to match astral symbols that supports unicode strings.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sallar/unicode-astral-regex.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "regex",
+    "astral",
+    "unicode",
+    "strings",
+    "string",
+    "emoji"
+  ],
+  "author": "Sallar Kaboli <sallar.kaboli@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sallar/unicode-astral-regex/issues"
   },
