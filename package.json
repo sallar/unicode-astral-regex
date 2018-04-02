@@ -1,6 +1,6 @@
 {
   "name": "unicode-astral-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A regex to match astral symbols that supports unicode strings.",
   "main": "index.js",
   "repository": {
