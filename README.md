@@ -1,4 +1,4 @@
-# unicode-astral-regex [![npm](https://img.shields.io/npm/v/unicode-astral-regex.svg)](https://www.npmjs.com/package/unicode-astral-regex)
+# unicode-astral-regex [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 A regex to match astral symbols that supports unicode strings.
 
@@ -21,3 +21,8 @@ astralRegex.match('some string');
 RegExp from the [Lodash](https://github.com/lodash/lodash) which is
 released under the
 [MIT License](https://raw.githubusercontent.com/lodash/lodash/4.14.1/LICENSE).
+
+[npm-image]: https://badge.fury.io/js/unicode-astral-regex.svg
+[npm-url]: https://npmjs.org/package/unicode-astral-regex
+[travis-image]: https://travis-ci.com/sallar/unicode-astral-regex.svg?branch=master
+[travis-url]: https://travis-ci.com/sallar/unicode-astral-regex
