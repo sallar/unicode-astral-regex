@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "A regex to match astral symbols that supports unicode strings.",
   "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sallar/unicode-astral-regex.git"
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sallar/unicode-astral-regex/issues"
   },
-  "homepage": "https://github.com/sallar/unicode-astral-regex#readme"
+  "homepage": "https://github.com/sallar/unicode-astral-regex#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
 }
