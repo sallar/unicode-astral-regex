@@ -13,7 +13,7 @@ $ npm install unicode-astral-regex
 ```js
 import astralRegex from 'unicode-astral-regex';
 
-astralRegex.match('some string');
+'some string'.match(astralRegex);
 ```
 
 ## License
